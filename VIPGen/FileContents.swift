@@ -1,11 +1,3 @@
-//
-//  FileContents.swift
-//  modulegen
-//
-//  Created by Alex McMillan on 06/03/2020.
-//  Copyright © 2020 Alex McMillan. All rights reserved.
-//
-
 import Foundation
 
 struct FileContents {
